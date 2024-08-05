@@ -20,3 +20,4 @@ During the Advanced Control 2024-I course at the Autonomous University of Bucara
 - SIMULINK codes with the simulations of the controllers and their respective comparisons.
 - Exported data from the various tests.
 - Videos and article explaining the operation.
+- 4 solved laboratory guides with step-by-step instructions.
